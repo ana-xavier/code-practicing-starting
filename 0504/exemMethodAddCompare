@@ -1,0 +1,11 @@
+//Exemplo de métodos com retorno
+public static int soma(int a, int b){
+    int c = a + b;
+    return(c);
+}
+
+//Exemplo de métodos com múltiplos retornos
+public static int maior(int a, int b){
+    if(a>b) return(a);
+    else return(b);
+}
