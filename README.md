@@ -4,3 +4,4 @@
 + 0418 - Algorithm to check whether a number is prime or not.
 + 0426 - Questions from P1.
 + 0502 - Working with method in Java.
++ Solving bhaskara and multiplication w/ methods in Java.
