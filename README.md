@@ -5,3 +5,4 @@
 + 0426 - Questions from P1.
 + 0502 - Working with method in Java.
 + 0506 - Solving bhaskara and multiplication w/ methods in Java.
++ 0509 - Calculate factorial, prime numeber and sum of a value.
