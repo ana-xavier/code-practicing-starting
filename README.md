@@ -7,3 +7,4 @@
 + 0506 - Solving bhaskara and multiplication w/ methods in Java.
 + 0509 - Calculate factorial, prime numeber and sum of a value.
 + 0511 - Class exercises.
++ 0520 - Array exemple.
